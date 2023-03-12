@@ -1,0 +1,8 @@
+C:\Users\abaku\source\repos\simplex2\simplex2\bin\Debug\simplex2.exe.config
+C:\Users\abaku\source\repos\simplex2\simplex2\bin\Debug\simplex2.exe
+C:\Users\abaku\source\repos\simplex2\simplex2\bin\Debug\simplex2.pdb
+C:\Users\abaku\source\repos\simplex2\simplex2\obj\Debug\simplex2.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\simplex2\simplex2\obj\Debug\simplex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\simplex2\simplex2\obj\Debug\simplex2.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\simplex2\simplex2\obj\Debug\simplex2.exe
+C:\Users\abaku\source\repos\simplex2\simplex2\obj\Debug\simplex2.pdb
